@@ -14,9 +14,12 @@ npm run build
 
 So I only uploaded the files I edited:
 
-**/public/index.html
-/public/index.css
-/src/App.js
-/src/index.css**
+**/public/index.html**
+
+**/public/index.css**
+
+**/src/App.js**
+
+**/src/index.css**
 
 Not sure how to upload a project created with npm install & npm start. They seem to create a lot (40,000) files in the directory
