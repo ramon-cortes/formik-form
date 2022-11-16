@@ -10,7 +10,7 @@ They do not seem to work uploaded in GitHub
 
 Tried using the following command and uploading the /build directory, but that does not work:
 
-npm run build
+*npm run build*
 
 So I only uploaded the important files (AKA the files I edited). They need to be placed in the **original location folder**:
 
